@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/enoteca/it/style.css">
+    <title>OFFERTE</title>
+</head>
+<body>
+  <div class="lang-it">
+    <a href="/enoteca/it/Offerte.html"><img src="/enoteca/img/it.png"></a>
+  </div>
+  <div class="lang-en">
+    <a href="/enoteca/en/Deals.html"><img src="/enoteca/img/en.png"></a>
+  </div>
+  <nav>
+    <div class="menu">
+        <ul>
+            <li><a href="/enoteca/it/index.html">Home</a></li>
+            <li><a href="/enoteca/it/chisiamo1.htm">Chi siamo</a></li>
+            <li class="has-children"><a href="#">Vini</a>
+                <ul class="sottomenù">
+                    <li><a href="/enoteca/it/regioni.html">Regioni</a></li>
+                </ul>
+            </li>
+            <li><a href="/enoteca/it/ordini.php">Ordini</a></li>
+            <li><a href="/enoteca/it/Negozi.htm">Negozi</a></li>
+            <li><a href="/enoteca/it/Offerte.html">Offerte</a></li>
+            <li><a href="/enoteca/it/contatti1.htm">Contatti</a></li>
+            <li><a href="/enoteca/it/dovesiamo.html">Dove siamo</a></li>
+        </ul>
+    </div>
+  </nav>
+  <div class="form-offerte">
+      <form action="Offerte.php" method="POST"> 
+        <h2>APPROFITTA DEL 10% DI SCONTO SU VINI SELEZIONATI!</h2>
+          <select name="sconto-vini">
+            <option value="#">Seleziona vino</option>
+            <option value="Muranera">Vino Muranera Rosso Calabria IGT Iuzzolini</option>
+            <option value="Avola">Terre Siciliane Nero d'Avola IGT "Antico Alberello" 2018 - Baglio di Pianetto</option>
+            <option value="Vulcanico">Basilicata Falanghina IGT "Vulcanico" 2022 - Paternoster</option>
+            <option value="Vernaccia">Vernaccia di San Gimignano Riserva DOCG "Sant'Elena" 2021 - Teruzzi</option>
+            <option value="Barolo">Barolo del Comune di Barolo DOCG 2019 - Scarzello</option>
+            <option value="Vulcaia">Veneto IGT 2020 "Vulcaia Fumè" 2021 - Inama</option>
+          </select> <br>   
+          Quantità <input type="number" name="quantità" min="1" max="10">
+          <input type="submit" value="Acquista">
+          <input type="reset" value="Cancella">
+      </form>
+  </div>
+</body>
+</html>
