@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/enoteca/it/style.css">
+    <title>DEALS</title>
+</head>
+<body>
+    <div class="lang-it">
+        <a href="/enoteca/it/Offerte.html"><img src="/enoteca/img/it.png"></a>
+    </div>
+    <div class="lang-en">
+        <a href="/enoteca/en/Deals"><img src="/enoteca/img/en.png"></a>
+    </div>
+    <nav>
+        <div class="menu">
+            <ul>
+                <li><a href="/enoteca/en/en.html">Home</a></li>
+                <li><a href="/enoteca/en/AboutUs.html">About us</a></li>
+                <li class="has-children"><a href="#">Wines</a>
+                    <ul class="sottomenù">
+                        <li><a href="/enoteca/en/Regions.html">Regions</a></li>
+                    </ul>
+                </li>
+                <li><a href="/enoteca/en/Orders.php">Orders</a></li>
+                <li><a href="/enoteca/en/Shops.html">Shops</a></li>
+                <li><a href="/enoteca/en/Deals.html">Deals</a></li>
+                <li><a href="/enoteca/en/ContactUs.html">Contact us</a></li>
+                <li><a href="/enoteca/en/FindUs.html">Find us</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="form-offerte">
+        <form action="Offerte-en.php" method="POST"> 
+            <h2>ENJOY 10% DISCOUNT ON SELECTED WINES</h2>
+            <select name="sconto-vini">
+                <option value="#">Choose wine</option>
+                <option value="Muranera">Vino Muranera Rosso Calabria IGT Iuzzolini</option>
+                <option value="Avola">Terre Siciliane Nero d'Avola IGT "Antico Alberello" 2018 - Baglio di Pianetto</option>
+                <option value="Vulcanico">Basilicata Falanghina IGT "Vulcanico" 2022 - Paternoster</option>
+                <option value="Vernaccia">Vernaccia di San Gimignano Riserva DOCG "Sant'Elena" 2021 - Teruzzi</option>
+                <option value="Barolo">Barolo del Comune di Barolo DOCG 2019 - Scarzello</option>
+                <option value="Vulcaia">Veneto IGT 2020 "Vulcaia Fumè" 2021 - Inama</option>
+            </select> <br>   
+            Quantity <input type="number" name="quantità" min="1" max="10">
+            <input type="submit" value="Buy">
+            <input type="reset" value="Delete">
+        </form>
+    </div>
+</body>
+</html>
