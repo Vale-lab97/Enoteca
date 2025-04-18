@@ -7,4 +7,5 @@ Website dedicated to a hypothetical wine shop located in various areas of Italy 
 
 # Dimostrazione grafica sito web
 <h2>Pagina iniziale : troviamo le sezioni Regioni e Servizi</h2>
- ![Image_Alt]()
+
+
