@@ -7,4 +7,4 @@ Website dedicated to a hypothetical wine shop located in various areas of Italy 
 
 # Dimostrazione grafica sito web
  <h2>Pagina iniziale : troviamo le sezioni Regioni e Servizi</h2>
-<img src="(https://github.com/user-attachments/assets/670e9df7-c193-4ff2-bd12-92cf1b7b16a6)">
+<img src="(https://github.com/Vale-lab97/Enoteca/blob/79d511120adc6cdce22219a5be570f2c3a8654dd/Pagina-iniziale.png)">
