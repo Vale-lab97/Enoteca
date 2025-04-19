@@ -80,9 +80,6 @@ ul.sottomenù{
     color:darkred;
 }
 
-/* .menu ul .sottomenù li{
-    display: block;
-} */
 
 .titolo{
     text-align: center;
@@ -133,13 +130,9 @@ ul.sottomenù{
 .img-chisiamo img {
   display: block;
   margin: 20px;
-  width: 200px; /* Imposta una larghezza fissa */
-  height: auto; /* Mantieni la proporzione originale */
+  width: 200px; 
+  height: auto; 
 }
-/* .bicchiere-vino img{
-    padding: 20px;
-    width: 10%;
-} */
 
 
 
@@ -161,21 +154,7 @@ ul.sottomenù{
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
-/* .recapiti {
-   
-    font-size: 22px;
-    margin: 0;
-    margin-left: 30px;
-    background-color: aliceblue;
-    
-} */
-
-
-/* .modulo-contatto h1 {
-    color: black;
-    text-align: left;
-    font-size: 50px;
-} */
+/
 
 .modulo-contatto{
     margin: 30px;
@@ -251,34 +230,7 @@ ul.sottomenù{
     background-color: darkred;
       
 }
-/* REGIONI */
-/* .container-categorie{
-   display:grid;
-   grid-template-columns: repeat(2, 1fr);
-   column-gap: 70px;
-   margin: 90px;
-   padding-left:18%;
-} */
-/* .categoria-regioni{
-    padding: 80px;
-    border: 4px white solid;
-    background-color: darkred;
-    box-shadow: 10px 10px 10px;
-    width: 70%;
-    border-top-left-radius: 20px;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
 
-}  */
-/* .categoria-regioni h2 a{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 25px;
-    text-align: center;
-    color: white;
-    font-style: italic;
-    font-variant: small-caps;
-    text-decoration: none;
-} */
 
 /* REGIONI CON ANIMAZIONE */
 .container-categorie {
@@ -359,21 +311,6 @@ ul.sottomenù{
     color: white;
 }
 
-/* .regioni li{
-    display: inline-block;
-    padding: 15px;
-    font-size: 30px;
-    margin-left: 10px;
-    background-color: darkred;
-    padding: 50px;
-    box-shadow: 10px 10px 10px black;
-    border-top-left-radius: 20px;
-    border-bottom-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: italic;
-    font-variant: small-caps;
-} */
 
 /* RIQUADRI REGIONI ANIMAZIONE */
 .regioni li {
@@ -468,12 +405,6 @@ ul.sottomenù{
     color: white;
 }
 
-/* PAGINA VINI CALABRIA */
-/* .vini-calabria{
-   text-align: center;
-   margin-inline-start: 15%;
-   width:70%;
-} */
 
 .vini-calabria {
     text-align: center;
@@ -507,17 +438,7 @@ ul.sottomenù{
     text-align: center;
 }
 
-/* .Vino-Muranera p{
-    
-    font-size: 15px;
-    text-align: center;
-}
-.Vino-Muranera img{
-    width: 10%;
-}
-.titolo-vini-calabria{
-    text-align: center;
-} */
+
 /* BASILICATA VINI */
 .container-vini-basilicata{
     display:grid;
@@ -628,10 +549,7 @@ select{
  
  
 }
-/* .container-servizi p{
-    text-align: center;
-    font-size: 30px;
-} */ 
+
 
 /* PAGINA DOVE SIAMO */
 
@@ -697,13 +615,13 @@ margin-top: 10px;
 /* MEDIA */
 
 @media (max-width: 768px) {
-  /* stili per dispositivi mobili */
+  /*  dispositivi mobili */
 }
 
 @media (max-width: 1024px) {
-  /* stili per tablet */
+  /*   tablet */
 }
 
 @media (min-width: 1200px) {
-  /* stili per desktop */
+  /*  desktop */
 }
