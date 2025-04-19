@@ -19,3 +19,5 @@ Website dedicated to a hypothetical wine shop located in various areas of Italy 
 ![vini-sicilia](https://github.com/user-attachments/assets/c1f642bc-523c-4c2e-b652-18bb019b1387)
 
 ![vini-calabria](https://github.com/user-attachments/assets/10ff6571-7327-460f-aa20-342d9dbeddc1)
+
+# 
