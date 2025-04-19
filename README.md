@@ -22,7 +22,7 @@ Website dedicated to a hypothetical wine shop located in various areas of Italy 
 
 <h2>Pagina degli ordini : puoi effettuare un'ordine in base ai tuoi gusti enologici!</h2>
 
-![ordini](https://github.com/user-attachments/assets/985d5e1b-5589-4719-b81d-9dcfb1151bd7)
+![ordini](https://github.com/user-attachments/assets/690b564f-0ad8-4083-aebf-7fe93b074217)
 
 <h2>ordine effettuato!</h2>
 
