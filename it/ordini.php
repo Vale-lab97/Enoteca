@@ -38,10 +38,8 @@
         </div>
         <div class="form-ordini">
             <form action="ordini-database.php" method="POST">
-                <label for="nome">Nome</label><br>
-                <input type="text" name="nome" placeholder="inserisci il tuo nome"><br><br>
-                <label for="cognome">Cognome</label><br>
-                <input type="text" name="cognome" placeholder="inserisci il tuo cognome"><br><br>  
+                <input type="text" name="nome" placeholder="Nome"><br><br>
+                <input type="text" name="cognome" placeholder="Cognome"><br><br>  
                 <select name="Scelta-Opzione" id="opzione">
                     <option value = "#">Scegli la tua opzione</option>
                     <option value = "Vini bianchi">Vini bianchi</option>
