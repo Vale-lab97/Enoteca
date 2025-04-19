@@ -20,4 +20,27 @@ Website dedicated to a hypothetical wine shop located in various areas of Italy 
 
 ![vini-calabria](https://github.com/user-attachments/assets/10ff6571-7327-460f-aa20-342d9dbeddc1)
 
-# 
+<h2>Pagina degli ordini : puoi effettuare un'ordine in base ai tuoi gusti enologici!</h2>
+
+![ordini](https://github.com/user-attachments/assets/985d5e1b-5589-4719-b81d-9dcfb1151bd7)
+
+<h2>ordine effettuato!</h2>
+
+![notifica-ordine](https://github.com/user-attachments/assets/4cca3da2-6033-41c8-b7ec-c60e89853967)
+
+<h2>il tuo ordine è stato memorizzato nel database!</h2>
+
+![database-ordini](https://github.com/user-attachments/assets/d27bc3ea-08fb-4e9d-a1a4-576ef326feda)
+
+<h2>Il sito offre la possibilità di approfittare del 10% di sconto su vini selezionati!!</h2>
+
+![offerte](https://github.com/user-attachments/assets/806bc6bd-4272-4022-b0bb-5741dc76c622)
+
+![quantità](https://github.com/user-attachments/assets/f986fa39-ab61-48de-88e0-b9d2ed48aa4a)
+
+<h2>Sconto effettuato!</h2>
+
+![sconto](https://github.com/user-attachments/assets/7cf712fc-20f8-452b-842b-a4414f211c5b)
+
+
+
