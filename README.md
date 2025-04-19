@@ -20,6 +20,11 @@ Website dedicated to a hypothetical wine shop located in various areas of Italy 
 
 ![vini-calabria](https://github.com/user-attachments/assets/10ff6571-7327-460f-aa20-342d9dbeddc1)
 
+<h2>Pagina dedicata ai negozi in giro per l'italia!</h2>
+
+![negozi](https://github.com/user-attachments/assets/2a04cf10-3cf3-4733-a770-e439505e1df7)
+
+
 <h2>Pagina degli ordini : puoi effettuare un'ordine in base ai tuoi gusti enologici!</h2>
 
 ![ordini](https://github.com/user-attachments/assets/690b564f-0ad8-4083-aebf-7fe93b074217)
@@ -42,5 +47,17 @@ Website dedicated to a hypothetical wine shop located in various areas of Italy 
 
 ![sconto](https://github.com/user-attachments/assets/7cf712fc-20f8-452b-842b-a4414f211c5b)
 
+<h2>In questa pagina l'utente potra' mettersi in contatto con l'azienda!</h2>
+
+![contatti](https://github.com/user-attachments/assets/ea502620-5504-49b4-aaf8-8c880fb634c1)
+
+<h2>Infine la pagina Dove siamo per trovare in modo facile l'enoteca e controllare gli orari di apertura!</h2>
+
+![luogo](https://github.com/user-attachments/assets/66b85c19-7954-44d9-991a-fe65bfb51fe9)
 
 
+# Il sito offre la possibilità di visualizzarlo interamente in lingua inglese!
+
+<h2>Esempio dimostrativo con la pagina dedicata alla storia dell'enoteca</h2>
+
+![en](https://github.com/user-attachments/assets/d6be1870-7b8d-4757-a58e-2b3fdcca17c2)
